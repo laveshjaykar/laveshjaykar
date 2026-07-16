@@ -1,9 +1,5 @@
 # Hi 👋, I'm Lavesh
 
-### A passionate software developer
-
-- 📫 How to reach me **laveshrjaykar@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/laveshjaykar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="laveshjaykar" height="30" width="40" /></a>
